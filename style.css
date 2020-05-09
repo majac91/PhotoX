@@ -60,6 +60,7 @@ nav {
     padding-left: 10px;
     padding-top: 10px;
     font-size: .7rem;
+    letter-spacing: 1px;
     float: left;
 }
 
@@ -118,6 +119,7 @@ Services
     width: 25%;
     float: left;
     background: var(--brown);
+    padding-bottom: 40px;
 
 }
 
@@ -257,7 +259,7 @@ footer
 
    nav ul li button {
     width: 200px;
-    margin: 1px;
+    margin: 2px;
 }
 
    header {
